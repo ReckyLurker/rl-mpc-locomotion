@@ -1,3 +1,5 @@
+## _Let's Hope we achieve something great with this collaboration :)_
+
 # RL MPC Locomotion
 This repo aims to provide a fast simulation and RL training framework for a quadruped locomotion task by dynamically predicting the weight parameters of a MPC controller. The control framework is a hierarchical controller composed of a higher-level policy network and a lower-level model predictive controller. 
 
